@@ -1,4 +1,4 @@
-void pre_exit(int status)
+void pr_exit(int status)
 {
 	if(WIFEXITED(status))
 		printf("normal termination, exit status = %d\n", WEXITSTATUS(status));
