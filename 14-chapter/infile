@@ -1,0 +1,15 @@
+total 104
+-rwxrwxr-x 1 free free 13672 Aug 26 17:07 1-14
+-rw-rw-r-- 1 free free   950 Aug 26 17:07 1-14.c
+-rwxrwxr-x 1 free free 18856 Sep  2 09:50 12-14
+-rw-rw-r-- 1 free free  2639 Sep  2 09:50 12-14.c
+-rw-rw-r-- 1 free free   262 Sep  2 08:48 5-14.c
+-rw-rw-r-- 1 free free   348 Sep  2 09:18 6-14.c
+-rwxrwxr-x 1 free free 14424 Sep  2 09:11 7-14
+-rw-rw-r-- 1 free free  1860 Sep  2 09:12 7-14.c
+-rw-rw-r-- 1 free free   195 Sep  2 09:22 9-14.c
+-rwxrwxr-x 1 free free 13592 Sep  2 15:01 C-18
+-rw-rw-r-- 1 free free   514 Sep  2 15:01 C-18.c
+-rw-rw-r-- 1 free free     0 Sep  2 15:03 infile
+-rw-rw-r-- 1 free free    45 Aug 26 17:14 stderr.out
+-rw-r-Sr-- 1 free free     6 Sep  2 09:50 templock
