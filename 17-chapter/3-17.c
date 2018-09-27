@@ -4,6 +4,7 @@
 #include <sys/msg.h>
 #include <sys/socket.h>
 
+<<<<<<< HEAD
 #define NQ		3		/* number of queues */
 #define MAXMSZ	512		/* maximum message size */
 #define KEY		0x123	/* key for first message queue */
@@ -78,4 +79,7 @@ int main()
 	}
 	exit(0);
 }
+=======
+
+>>>>>>> 60cec8f759ac2875ba05bcd357f8188d4abe8c6c
 
