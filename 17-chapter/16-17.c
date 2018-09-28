@@ -104,4 +104,3 @@ int recv_ufd(int fd, uid_t *uidptr, ssize_t (*userfunc)(int, const void *, size_
 			return(newfd);
 	}
 }
-
